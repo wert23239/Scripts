@@ -1,2 +1,3 @@
-cd C:/Source/
-scp -r  MABE.zip lambe168@rsync.hpcc.msu.edu:~/mkcompile/.
+call ZipFile.bat
+call CopyToHPCC.bat
+call SSHandCall.bat
