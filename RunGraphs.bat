@@ -1,2 +1,2 @@
-cd Desktop
+cd C:/Users/Alex/Desktop
 python PythonTools\MGraph.py -conditions Det_1__DetI_5__Prob_1__ProbI_5 Det_1__DetI_5__Prob_1__ProbI_25 -repRange 101 103 -files dominant -data score Beep1Org1Total -numCol 1 -combineConditions
