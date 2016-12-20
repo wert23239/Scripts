@@ -1,0 +1,1 @@
+scp -r runThis.sh lambe168@rsync.hpcc.msu.edu:~/HPCCTESTS/.
